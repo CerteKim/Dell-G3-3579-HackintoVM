@@ -1,0 +1,3 @@
+[submodule "ovmf-with-vbios-patch"]
+	path = ovmf-with-vbios-patch
+	url = https://github.com/CerteKim/ovmf-with-vbios-patch
