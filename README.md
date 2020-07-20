@@ -8,6 +8,5 @@
 - [ ] dGPU vbios/acpi patch  
 - [x] Nvidia Driver installation  
 - [ ] Optimus emulation  
-- [ ] Looking Glass  
-- [ ] macOS compatibility  
+- [x] macOS compatibility  
 - [ ] Virtual Reality Devices compatibility  
