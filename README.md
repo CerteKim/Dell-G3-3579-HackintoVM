@@ -1,3 +1,7 @@
+# EOL
+1. It is proved that it is **impossible** to make dGPU work on VMs due to **MUXless Optimus**.
+2. My laptop is broken and it is so expensive to repair.
+
 # HackintoVM
 
 ## TODO:
